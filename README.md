@@ -1,6 +1,6 @@
 # SushiPro 🍣
 
-https://sushiPro.org. Feel free to read the code. More details coming soon.
+https://sushipro.org. Feel free to read the code. More details coming soon.
 
 ## License
 
